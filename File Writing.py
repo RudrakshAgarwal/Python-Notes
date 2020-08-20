@@ -1,5 +1,5 @@
 f = open("Rudra2.txt", "a") # "w" is for write and "a" is for append
-a = f.write("Rudraksh ek bhut hi smart or handsome ladka hai \n")
+a = f.write("Mein ek bhut hi smart or handsome ladka hu \n")
 print(a) #This will print no. of characters which has written in the file.
 f.close()
 
